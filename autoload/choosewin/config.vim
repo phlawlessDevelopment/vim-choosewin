@@ -12,7 +12,7 @@ let s:default = {
       \ 'tablabel':                '123456789',
       \ 'blink_on_land':           1,
       \ 'return_on_single_win':    0,
-      \ 'label':                   'ABCDEFGHIJKLMNOPQRTUVWXYZ',
+      \ 'label':                   'QWERTYUIOPASDFGHJKLZXCVBNM',
       \ 'keymap':                  {},
       \ 'hook':                    {},
       \ 'hook_enable':             0,
